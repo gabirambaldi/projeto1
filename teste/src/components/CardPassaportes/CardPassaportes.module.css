@@ -1,0 +1,35 @@
+body {display: grid;
+    justify-content: center;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.titulo{font-size: 50px;
+        font-weight: 800;
+        color: #1E1E1E;
+
+}
+
+hr {border-style: dashed;
+    border-color:  #1E1E1E;
+    width: 30em;
+    margin-right: 40%;
+
+}
+
+.img {width: 150px;
+
+}
+
+
+.lista{
+    list-style: none;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 0.5fr 0.5fr;
+    margin-bottom: 5em;
+    margin-top: 5em;
+    
+            
+}

@@ -1,0 +1,27 @@
+/* fessora como q troca a cor do fundo pra #1E1E1E */
+
+.div{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;  
+}
+
+hr {border-style: dashed;
+  border-color:  #1E1E1E;
+  width: 30em;
+  }
+
+  .botao{
+    display: grid;
+    justify-content: center;
+    color: inherit; 
+    text-decoration: none;
+  }
+ 
+  h4{
+    display: grid;
+  justify-content: center;
+  
+  }
+  
